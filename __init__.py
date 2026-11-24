@@ -1,1 +1,1 @@
-"""CivicTrack database package."""
+"""CivicTrack application modules."""
